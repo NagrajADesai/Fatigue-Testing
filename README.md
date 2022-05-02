@@ -31,4 +31,4 @@ RedRatio - Reduction Ratio (Ingot to Bar)
 dA - Area Proportion of Inclusions Deformed by Plastic Work                  
 dB -Area Proportion of Inclusions Occurring in Discontinuous Array                 
 dC -Area Proportion of Isolated Inclusions                
-Fatigue - Rotating Bending Fatigue Strength                
+Fatigue - Rotating Bending Fatigue Strength (10^7 Cycles)                
