@@ -5,7 +5,7 @@ These tests are used either to generate fatigue life and crack growth data, iden
 
 Fatigue is the progressive, localized, permanent structural change that occurs in materials subjected to fluctuating stresses and strains that may result in cracks or fractures after a sufficient number of fluctuations.
 
-## Parameters that affect's Fatigue life - Variable Description
+## Parameters affecting Fatigue life (Variable Description)
 C % - Carbon                 
 Si % - Silicon           
 Mn % - Manganese                       
